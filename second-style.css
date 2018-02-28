@@ -1,0 +1,30 @@
+body{
+          background-color:darkslategrey;
+      }
+
+.panel{
+    background-color: #333;
+}
+
+p{
+    font-size: 32px;
+    color:aliceblue;
+    font-family: monospace   
+}
+
+#bio{
+    opacity: 0.9;
+    visibility: 0.1;
+    margin: 124px;
+}
+
+.baslik{
+    font-size: 43px;
+    color: lightgoldenrodyellow;
+    letter-spacing: 26px;
+    text-shadow: 5px 5px black;
+}
+
+#buton{
+    float: left;
+}

@@ -1,0 +1,39 @@
+img{
+          width: 20rem;
+      }
+      
+body{
+          background-color: #E2DFE8;
+      }
+
+.jumbotron{
+    margin-top: 40px;
+    background-image:url(header.png);
+    background-size: cover;
+}
+
+.panel{
+    background-color: #333;
+}
+
+#bosluk-dis{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    
+}
+
+#bosluk-vid{
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.alert-success {
+    color: darkslategray;
+    background-color: #E2DFE8;
+    border-color: #000000;
+    border-style: dashed;
+    font-family: monospace;
+    letter-spacing: 6px;
+}
+
+
